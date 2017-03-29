@@ -1,4 +1,5 @@
 My change #3
+Collab-conflict
 Another change
 Conflict #2
 New line
