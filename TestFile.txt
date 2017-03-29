@@ -1,4 +1,6 @@
 Another change
+Conflict #2
+New line
 My change
 New change
 CONFLICTING ADDITION!
