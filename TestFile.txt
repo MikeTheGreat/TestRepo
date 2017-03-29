@@ -1,3 +1,4 @@
+My change #3
 Another change
 Conflict #2
 New line
