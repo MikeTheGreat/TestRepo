@@ -1,4 +1,5 @@
 My change
+New change
 CONFLICTING ADDITION!
 MY FIRST LINE
 This is my distinctive first message!
