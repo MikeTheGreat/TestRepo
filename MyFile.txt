@@ -1,3 +1,4 @@
+Changed in class by StudentDemoAccount
 Changed by Mike via elegit
 LIne #1, from Elegit
 Another change
