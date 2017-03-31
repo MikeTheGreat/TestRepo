@@ -1,4 +1,3 @@
-changed while in 'Elegit' branch, committed on 'master' branch
 Changed in class by StudentDemoAccount
 Changed by Mike via elegit
 LIne #1, from Elegit
