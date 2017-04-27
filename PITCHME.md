@@ -3,7 +3,7 @@
 
 ![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
 
-#### Get the word out
+#### This is GitPitch
 <br>
 <span style="color:gray">Markdown Presentations For Developers</span>
 <br>
@@ -16,6 +16,8 @@
 ### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 <br>
 <span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+
+I can't tell if this is an official GitHub thing or not
 
 ---
 <!-- .slide: data-autoslide="2000" -->
